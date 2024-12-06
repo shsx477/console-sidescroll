@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KGA\\Documents\\Source\\ConsoleSideScroller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1374B890-E4A4-405C-AE4C-902CB073FA56}|ConsoleSideScroller\\ConsoleSideScroller.csproj|c:\\users\\kga\\documents\\source\\consolesidescroller\\consolesidescroller\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1374B890-E4A4-405C-AE4C-902CB073FA56}|ConsoleSideScroller\\ConsoleSideScroller.csproj|solutionrelative:consolesidescroller\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1374B890-E4A4-405C-AE4C-902CB073FA56}|ConsoleSideScroller\\ConsoleSideScroller.csproj|c:\\users\\kga\\documents\\source\\consolesidescroller\\consolesidescroller\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1374B890-E4A4-405C-AE4C-902CB073FA56}|ConsoleSideScroller\\ConsoleSideScroller.csproj|solutionrelative:consolesidescroller\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1374B890-E4A4-405C-AE4C-902CB073FA56}|ConsoleSideScroller\\ConsoleSideScroller.csproj|c:\\users\\kga\\documents\\source\\consolesidescroller\\consolesidescroller\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1374B890-E4A4-405C-AE4C-902CB073FA56}|ConsoleSideScroller\\ConsoleSideScroller.csproj|solutionrelative:consolesidescroller\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1374B890-E4A4-405C-AE4C-902CB073FA56}|ConsoleSideScroller\\ConsoleSideScroller.csproj|c:\\users\\kga\\documents\\source\\consolesidescroller\\consolesidescroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1374B890-E4A4-405C-AE4C-902CB073FA56}|ConsoleSideScroller\\ConsoleSideScroller.csproj|solutionrelative:consolesidescroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1374B890-E4A4-405C-AE4C-902CB073FA56}|ConsoleSideScroller\\ConsoleSideScroller.csproj|c:\\users\\kga\\documents\\source\\consolesidescroller\\consolesidescroller\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1374B890-E4A4-405C-AE4C-902CB073FA56}|ConsoleSideScroller\\ConsoleSideScroller.csproj|solutionrelative:consolesidescroller\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Source\\ConsoleSideScroller\\ConsoleSideScroller\\Obstacle.cs",
+              "RelativeDocumentMoniker": "ConsoleSideScroller\\Obstacle.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\Source\\ConsoleSideScroller\\ConsoleSideScroller\\Obstacle.cs",
+              "RelativeToolTip": "ConsoleSideScroller\\Obstacle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:37:39.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Source\\ConsoleSideScroller\\ConsoleSideScroller\\Player.cs",
+              "RelativeDocumentMoniker": "ConsoleSideScroller\\Player.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\Source\\ConsoleSideScroller\\ConsoleSideScroller\\Player.cs",
+              "RelativeToolTip": "ConsoleSideScroller\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:37:18.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stage.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Source\\ConsoleSideScroller\\ConsoleSideScroller\\Stage.cs",
+              "RelativeDocumentMoniker": "ConsoleSideScroller\\Stage.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\Source\\ConsoleSideScroller\\ConsoleSideScroller\\Stage.cs",
+              "RelativeToolTip": "ConsoleSideScroller\\Stage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:19:38.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Source\\ConsoleSideScroller\\ConsoleSideScroller\\MainMenu.cs",
+              "RelativeDocumentMoniker": "ConsoleSideScroller\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\Source\\ConsoleSideScroller\\ConsoleSideScroller\\MainMenu.cs",
+              "RelativeToolTip": "ConsoleSideScroller\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:52:38.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Source\\ConsoleSideScroller\\ConsoleSideScroller\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleSideScroller\\Program.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\Source\\ConsoleSideScroller\\ConsoleSideScroller\\Program.cs",
+              "RelativeToolTip": "ConsoleSideScroller\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwCoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:52:10.089Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

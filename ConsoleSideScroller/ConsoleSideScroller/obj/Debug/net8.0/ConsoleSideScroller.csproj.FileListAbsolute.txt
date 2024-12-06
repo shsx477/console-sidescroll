@@ -1,0 +1,14 @@
+C:\Users\KGA\Documents\Source\ConsoleSideScroller\ConsoleSideScroller\bin\Debug\net8.0\ConsoleSideScroller.exe
+C:\Users\KGA\Documents\Source\ConsoleSideScroller\ConsoleSideScroller\bin\Debug\net8.0\ConsoleSideScroller.deps.json
+C:\Users\KGA\Documents\Source\ConsoleSideScroller\ConsoleSideScroller\bin\Debug\net8.0\ConsoleSideScroller.runtimeconfig.json
+C:\Users\KGA\Documents\Source\ConsoleSideScroller\ConsoleSideScroller\bin\Debug\net8.0\ConsoleSideScroller.dll
+C:\Users\KGA\Documents\Source\ConsoleSideScroller\ConsoleSideScroller\bin\Debug\net8.0\ConsoleSideScroller.pdb
+C:\Users\KGA\Documents\Source\ConsoleSideScroller\ConsoleSideScroller\obj\Debug\net8.0\ConsoleSideScroller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KGA\Documents\Source\ConsoleSideScroller\ConsoleSideScroller\obj\Debug\net8.0\ConsoleSideScroller.AssemblyInfoInputs.cache
+C:\Users\KGA\Documents\Source\ConsoleSideScroller\ConsoleSideScroller\obj\Debug\net8.0\ConsoleSideScroller.AssemblyInfo.cs
+C:\Users\KGA\Documents\Source\ConsoleSideScroller\ConsoleSideScroller\obj\Debug\net8.0\ConsoleSideScroller.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\Source\ConsoleSideScroller\ConsoleSideScroller\obj\Debug\net8.0\ConsoleSideScroller.dll
+C:\Users\KGA\Documents\Source\ConsoleSideScroller\ConsoleSideScroller\obj\Debug\net8.0\refint\ConsoleSideScroller.dll
+C:\Users\KGA\Documents\Source\ConsoleSideScroller\ConsoleSideScroller\obj\Debug\net8.0\ConsoleSideScroller.pdb
+C:\Users\KGA\Documents\Source\ConsoleSideScroller\ConsoleSideScroller\obj\Debug\net8.0\ConsoleSideScroller.genruntimeconfig.cache
+C:\Users\KGA\Documents\Source\ConsoleSideScroller\ConsoleSideScroller\obj\Debug\net8.0\ref\ConsoleSideScroller.dll
